@@ -1,0 +1,15 @@
+/Users/metaslowly/Desktop/Artificial Inteligence/CW/A_Star_Search_Caves/A_Star_Search_Caves/bin/Debug/net7.0/A_Star_Search_Caves
+/Users/metaslowly/Desktop/Artificial Inteligence/CW/A_Star_Search_Caves/A_Star_Search_Caves/bin/Debug/net7.0/A_Star_Search_Caves.deps.json
+/Users/metaslowly/Desktop/Artificial Inteligence/CW/A_Star_Search_Caves/A_Star_Search_Caves/bin/Debug/net7.0/A_Star_Search_Caves.runtimeconfig.json
+/Users/metaslowly/Desktop/Artificial Inteligence/CW/A_Star_Search_Caves/A_Star_Search_Caves/bin/Debug/net7.0/A_Star_Search_Caves.dll
+/Users/metaslowly/Desktop/Artificial Inteligence/CW/A_Star_Search_Caves/A_Star_Search_Caves/bin/Debug/net7.0/A_Star_Search_Caves.pdb
+/Users/metaslowly/Desktop/Artificial Inteligence/CW/A_Star_Search_Caves/A_Star_Search_Caves/obj/Debug/net7.0/A_Star_Search_Caves.csproj.AssemblyReference.cache
+/Users/metaslowly/Desktop/Artificial Inteligence/CW/A_Star_Search_Caves/A_Star_Search_Caves/obj/Debug/net7.0/A_Star_Search_Caves.GeneratedMSBuildEditorConfig.editorconfig
+/Users/metaslowly/Desktop/Artificial Inteligence/CW/A_Star_Search_Caves/A_Star_Search_Caves/obj/Debug/net7.0/A_Star_Search_Caves.AssemblyInfoInputs.cache
+/Users/metaslowly/Desktop/Artificial Inteligence/CW/A_Star_Search_Caves/A_Star_Search_Caves/obj/Debug/net7.0/A_Star_Search_Caves.AssemblyInfo.cs
+/Users/metaslowly/Desktop/Artificial Inteligence/CW/A_Star_Search_Caves/A_Star_Search_Caves/obj/Debug/net7.0/A_Star_Search_Caves.csproj.CoreCompileInputs.cache
+/Users/metaslowly/Desktop/Artificial Inteligence/CW/A_Star_Search_Caves/A_Star_Search_Caves/obj/Debug/net7.0/A_Star_Search_Caves.dll
+/Users/metaslowly/Desktop/Artificial Inteligence/CW/A_Star_Search_Caves/A_Star_Search_Caves/obj/Debug/net7.0/refint/A_Star_Search_Caves.dll
+/Users/metaslowly/Desktop/Artificial Inteligence/CW/A_Star_Search_Caves/A_Star_Search_Caves/obj/Debug/net7.0/A_Star_Search_Caves.pdb
+/Users/metaslowly/Desktop/Artificial Inteligence/CW/A_Star_Search_Caves/A_Star_Search_Caves/obj/Debug/net7.0/A_Star_Search_Caves.genruntimeconfig.cache
+/Users/metaslowly/Desktop/Artificial Inteligence/CW/A_Star_Search_Caves/A_Star_Search_Caves/obj/Debug/net7.0/ref/A_Star_Search_Caves.dll
